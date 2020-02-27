@@ -8,7 +8,7 @@
 
 演示网址：https://www.gksec.com/github_demo/video2image.html
 
-![20200227161737.png](https://i.loli.net/2020/02/27/oqFC3RIyxYJXmag.png)
+![20200227161737.png](https://cdn.gksec.com/2020/02/27/5dcad6205d0d0/20200227161737.png)
 
 
 
